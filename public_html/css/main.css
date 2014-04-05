@@ -1,0 +1,21 @@
+thead {
+	font-weight: bold;
+}
+
+
+.bolded {
+	font-weight: bold;
+}
+
+.panel-primary > .panel-heading {
+	background-color: #7FBABF;
+	border-color: #685F64;
+}
+
+.panel-primary {
+	border-color: #685F64;
+}
+
+.completed {
+	text-decoration: line-through;
+}
